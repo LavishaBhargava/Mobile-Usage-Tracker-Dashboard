@@ -1,0 +1,391 @@
+UserID,Date,AppName,Category,Duration(mins),BatteryUsed(%),DataUsed(MB),TimeOfDay,Productive (Y/N)
+U001,2025-03-15,Chrome,Productivity,105,17.4,423.6,Night,Y
+U001,2025-03-15,YouTube,Entertainment,49,3.6,104.6,Morning,N
+U001,2025-03-15,YouTube,Entertainment,32,5.1,126.7,Night,N
+U001,2025-03-16,Spotify,Entertainment,29,3.4,75.5,Afternoon,N
+U001,2025-03-16,WhatsApp,Social Media,28,4.6,134.0,Morning,N
+U001,2025-03-16,Notion,Productivity,62,7.6,305.2,Evening,Y
+U001,2025-03-17,Instagram,Social Media,36,5.0,177.3,Night,N
+U001,2025-03-17,Instagram,Social Media,119,6.1,456.1,Morning,N
+U001,2025-03-17,WhatsApp,Social Media,113,20.6,328.9,Evening,N
+U001,2025-03-18,LinkedIn,Professional,74,8.4,220.0,Morning,Y
+U001,2025-03-18,LinkedIn,Professional,99,14.8,160.7,Evening,Y
+U001,2025-03-18,WhatsApp,Social Media,111,18.1,371.9,Morning,N
+U001,2025-03-18,LinkedIn,Professional,21,1.5,32.0,Morning,Y
+U001,2025-03-19,Spotify,Entertainment,114,6.1,487.2,Evening,N
+U001,2025-03-19,Spotify,Entertainment,27,5.4,98.6,Afternoon,N
+U001,2025-03-19,WhatsApp,Social Media,43,2.2,177.5,Night,N
+U001,2025-03-19,Chrome,Productivity,97,5.6,285.3,Evening,Y
+U001,2025-03-20,Instagram,Social Media,89,7.2,223.2,Afternoon,N
+U001,2025-03-20,Spotify,Entertainment,71,4.8,339.1,Morning,N
+U001,2025-03-20,LinkedIn,Professional,103,15.7,346.6,Morning,Y
+U001,2025-03-21,Notion,Productivity,56,5.7,184.6,Afternoon,Y
+U001,2025-03-21,Chrome,Productivity,78,5.7,293.5,Morning,Y
+U001,2025-03-21,Notion,Productivity,106,16.7,482.9,Evening,Y
+U001,2025-03-21,Notion,Productivity,56,3.7,247.9,Morning,Y
+U001,2025-03-21,Candy Crush,Games,119,9.2,214.6,Afternoon,N
+U001,2025-03-22,YouTube,Entertainment,101,7.9,402.6,Evening,N
+U001,2025-03-22,Instagram,Social Media,62,5.1,251.0,Night,N
+U001,2025-03-22,Candy Crush,Games,29,1.8,87.1,Evening,N
+U001,2025-03-22,Instagram,Social Media,82,8.1,127.4,Night,N
+U001,2025-03-23,Instagram,Social Media,38,2.0,123.5,Morning,N
+U001,2025-03-23,Zoom,Productivity,45,7.8,177.9,Evening,Y
+U001,2025-03-23,Zoom,Productivity,72,12.2,280.7,Morning,Y
+U001,2025-03-23,Spotify,Entertainment,117,11.3,318.2,Evening,N
+U001,2025-03-24,Instagram,Social Media,43,5.5,184.9,Morning,N
+U001,2025-03-24,Notion,Productivity,68,12.3,289.7,Afternoon,Y
+U001,2025-03-24,WhatsApp,Social Media,12,1.2,19.1,Afternoon,N
+U001,2025-03-24,LinkedIn,Professional,33,3.7,65.5,Evening,Y
+U001,2025-03-24,WhatsApp,Social Media,38,6.9,156.2,Morning,N
+U001,2025-03-24,Zoom,Productivity,84,15.2,156.6,Morning,Y
+U001,2025-03-25,Zoom,Productivity,16,2.0,46.2,Afternoon,Y
+U001,2025-03-25,Chrome,Productivity,85,11.0,411.9,Evening,Y
+U001,2025-03-25,Notion,Productivity,120,8.0,392.6,Afternoon,Y
+U001,2025-03-25,WhatsApp,Social Media,98,10.5,171.4,Night,N
+U001,2025-03-25,Instagram,Social Media,10,1.2,22.7,Morning,N
+U001,2025-03-26,Zoom,Productivity,65,10.1,313.1,Morning,Y
+U001,2025-03-26,Candy Crush,Games,48,3.6,110.3,Night,N
+U001,2025-03-26,Google Meet,Productivity,88,9.8,331.6,Morning,Y
+U001,2025-03-26,Zoom,Productivity,42,3.9,114.8,Afternoon,Y
+U001,2025-03-26,Zoom,Productivity,108,18.9,538.0,Afternoon,Y
+U001,2025-03-26,Google Meet,Productivity,113,6.9,496.2,Night,Y
+U001,2025-03-27,YouTube,Entertainment,63,8.4,164.1,Evening,N
+U001,2025-03-27,Spotify,Entertainment,61,12.1,232.7,Evening,N
+U001,2025-03-27,WhatsApp,Social Media,102,19.1,452.7,Afternoon,N
+U001,2025-03-27,Candy Crush,Games,110,9.9,391.5,Afternoon,N
+U001,2025-03-27,LinkedIn,Professional,81,11.2,369.7,Evening,Y
+U001,2025-03-28,Zoom,Productivity,15,1.9,28.6,Night,Y
+U001,2025-03-28,WhatsApp,Social Media,47,6.0,226.3,Morning,N
+U001,2025-03-28,Instagram,Social Media,17,2.6,78.6,Night,N
+U001,2025-03-28,Instagram,Social Media,109,12.6,402.4,Evening,N
+U001,2025-03-28,Instagram,Social Media,50,8.5,199.0,Evening,N
+U001,2025-03-29,Google Meet,Productivity,97,5.0,381.8,Night,Y
+U001,2025-03-29,Google Meet,Productivity,50,4.3,134.3,Evening,Y
+U001,2025-03-29,Google Meet,Productivity,103,19.1,327.5,Morning,Y
+U001,2025-03-30,YouTube,Entertainment,68,11.6,293.0,Morning,N
+U001,2025-03-30,LinkedIn,Professional,117,11.2,279.8,Evening,Y
+U001,2025-03-30,Instagram,Social Media,19,1.4,58.7,Evening,N
+U001,2025-03-30,Zoom,Productivity,76,13.8,356.7,Afternoon,Y
+U001,2025-03-30,Chrome,Productivity,85,13.3,155.7,Evening,Y
+U001,2025-03-31,Instagram,Social Media,67,6.8,251.8,Night,N
+U001,2025-03-31,Notion,Productivity,79,12.1,235.1,Night,Y
+U001,2025-03-31,Google Meet,Productivity,30,5.0,47.8,Afternoon,Y
+U001,2025-03-31,WhatsApp,Social Media,63,3.5,94.7,Morning,N
+U001,2025-04-01,Zoom,Productivity,86,14.4,284.2,Afternoon,Y
+U001,2025-04-01,Zoom,Productivity,23,1.8,105.1,Evening,Y
+U001,2025-04-01,Chrome,Productivity,14,0.8,61.5,Afternoon,Y
+U001,2025-04-01,Zoom,Productivity,95,9.9,168.7,Morning,Y
+U001,2025-04-02,WhatsApp,Social Media,52,7.1,154.1,Morning,N
+U001,2025-04-02,Notion,Productivity,116,11.5,383.1,Afternoon,Y
+U001,2025-04-02,Google Meet,Productivity,27,1.4,45.3,Evening,Y
+U001,2025-04-02,Candy Crush,Games,108,5.9,525.0,Evening,N
+U001,2025-04-02,WhatsApp,Social Media,118,13.7,327.6,Afternoon,N
+U001,2025-04-03,Google Meet,Productivity,57,8.2,109.7,Night,Y
+U001,2025-04-03,Chrome,Productivity,64,8.8,242.9,Afternoon,Y
+U001,2025-04-03,WhatsApp,Social Media,66,10.4,181.6,Morning,N
+U001,2025-04-03,Chrome,Productivity,76,13.6,352.1,Afternoon,Y
+U001,2025-04-03,YouTube,Entertainment,62,7.0,117.3,Evening,N
+U001,2025-04-04,Candy Crush,Games,56,4.1,277.2,Night,N
+U001,2025-04-04,Candy Crush,Games,14,1.2,64.1,Afternoon,N
+U001,2025-04-04,Candy Crush,Games,27,1.8,125.5,Afternoon,N
+U001,2025-04-04,Google Meet,Productivity,117,5.9,199.2,Afternoon,Y
+U001,2025-04-05,Spotify,Entertainment,114,19.0,363.7,Evening,N
+U001,2025-04-05,Instagram,Social Media,11,1.8,49.7,Night,N
+U001,2025-04-05,WhatsApp,Social Media,84,8.3,178.0,Morning,N
+U001,2025-04-05,Chrome,Productivity,19,1.1,44.0,Evening,Y
+U001,2025-04-05,Instagram,Social Media,17,2.4,52.9,Afternoon,N
+U001,2025-04-05,Zoom,Productivity,48,3.7,221.2,Evening,Y
+U001,2025-04-06,Notion,Productivity,22,2.4,109.9,Morning,Y
+U001,2025-04-06,Candy Crush,Games,39,3.5,182.5,Evening,N
+U001,2025-04-06,LinkedIn,Professional,113,17.9,519.4,Afternoon,Y
+U001,2025-04-06,Zoom,Productivity,54,9.0,220.1,Afternoon,Y
+U001,2025-04-06,WhatsApp,Social Media,57,3.6,216.5,Morning,N
+U001,2025-04-07,Notion,Productivity,90,4.6,142.4,Evening,Y
+U001,2025-04-07,Zoom,Productivity,29,3.0,139.1,Evening,Y
+U001,2025-04-07,YouTube,Entertainment,36,4.6,177.9,Evening,N
+U001,2025-04-07,WhatsApp,Social Media,110,9.7,305.2,Evening,N
+U001,2025-04-08,Google Meet,Productivity,21,1.8,77.9,Afternoon,Y
+U001,2025-04-08,LinkedIn,Professional,82,8.7,159.5,Afternoon,Y
+U001,2025-04-08,Chrome,Productivity,77,15.1,356.0,Night,Y
+U001,2025-04-09,Candy Crush,Games,63,8.2,115.1,Night,N
+U001,2025-04-09,LinkedIn,Professional,23,3.9,59.8,Night,Y
+U001,2025-04-09,Candy Crush,Games,96,13.2,369.2,Evening,N
+U001,2025-04-09,Candy Crush,Games,94,18.5,254.3,Morning,N
+U001,2025-04-10,Instagram,Social Media,41,7.4,173.7,Afternoon,N
+U001,2025-04-10,Instagram,Social Media,83,15.0,172.9,Evening,N
+U001,2025-04-10,WhatsApp,Social Media,93,4.8,147.2,Afternoon,N
+U001,2025-04-10,WhatsApp,Social Media,80,11.7,242.8,Evening,N
+U001,2025-04-11,Zoom,Productivity,106,7.1,340.7,Evening,Y
+U001,2025-04-11,Notion,Productivity,57,10.3,91.8,Morning,Y
+U001,2025-04-11,Zoom,Productivity,103,14.6,190.9,Afternoon,Y
+U001,2025-04-11,Spotify,Entertainment,36,2.7,132.1,Night,N
+U001,2025-04-11,Instagram,Social Media,110,8.4,240.8,Evening,N
+U001,2025-04-12,Candy Crush,Games,25,3.7,95.2,Evening,N
+U001,2025-04-12,WhatsApp,Social Media,99,11.3,373.4,Afternoon,N
+U001,2025-04-12,Notion,Productivity,30,6.0,64.9,Morning,Y
+U001,2025-04-12,LinkedIn,Professional,89,15.3,295.8,Morning,Y
+U001,2025-04-12,YouTube,Entertainment,103,8.1,506.0,Afternoon,N
+U001,2025-04-12,Spotify,Entertainment,65,10.7,248.0,Morning,N
+U001,2025-04-13,Spotify,Entertainment,77,11.0,269.2,Evening,N
+U001,2025-04-13,Zoom,Productivity,87,15.9,360.8,Night,Y
+U001,2025-04-13,Spotify,Entertainment,85,13.8,145.7,Afternoon,N
+U001,2025-04-13,Instagram,Social Media,78,6.4,132.1,Afternoon,N
+U001,2025-04-13,Zoom,Productivity,72,10.7,148.0,Evening,Y
+U002,2025-03-15,Google Meet,Productivity,34,6.3,72.3,Afternoon,Y
+U002,2025-03-15,YouTube,Entertainment,82,4.4,295.4,Morning,N
+U002,2025-03-15,Google Meet,Productivity,29,4.2,94.4,Afternoon,Y
+U002,2025-03-15,Instagram,Social Media,42,6.7,82.2,Morning,N
+U002,2025-03-16,Instagram,Social Media,34,6.5,59.3,Afternoon,N
+U002,2025-03-16,WhatsApp,Social Media,119,19.5,202.1,Afternoon,N
+U002,2025-03-16,LinkedIn,Professional,39,5.3,110.8,Morning,Y
+U002,2025-03-16,Zoom,Productivity,118,12.3,280.4,Afternoon,Y
+U002,2025-03-16,Google Meet,Productivity,79,14.5,300.6,Evening,Y
+U002,2025-03-17,YouTube,Entertainment,15,2.0,50.3,Morning,N
+U002,2025-03-17,YouTube,Entertainment,37,2.0,101.5,Afternoon,N
+U002,2025-03-17,Instagram,Social Media,106,16.1,495.0,Morning,N
+U002,2025-03-18,Chrome,Productivity,61,10.7,245.7,Afternoon,Y
+U002,2025-03-18,YouTube,Entertainment,67,9.1,287.8,Afternoon,N
+U002,2025-03-18,Google Meet,Productivity,47,6.1,85.1,Evening,Y
+U002,2025-03-19,Zoom,Productivity,91,12.8,282.9,Night,Y
+U002,2025-03-19,Notion,Productivity,116,20.1,177.8,Night,Y
+U002,2025-03-19,YouTube,Entertainment,86,16.0,334.6,Morning,N
+U002,2025-03-19,Chrome,Productivity,21,3.3,80.4,Afternoon,Y
+U002,2025-03-19,Spotify,Entertainment,46,6.0,75.1,Afternoon,N
+U002,2025-03-19,Instagram,Social Media,37,2.1,87.1,Morning,N
+U002,2025-03-20,Notion,Productivity,34,6.5,139.1,Morning,Y
+U002,2025-03-20,Notion,Productivity,97,10.4,185.6,Afternoon,Y
+U002,2025-03-20,Instagram,Social Media,81,14.4,231.6,Morning,N
+U002,2025-03-20,WhatsApp,Social Media,95,11.1,397.2,Night,N
+U002,2025-03-20,Spotify,Entertainment,70,12.2,289.2,Morning,N
+U002,2025-03-20,LinkedIn,Professional,69,8.1,223.8,Evening,Y
+U002,2025-03-21,Notion,Productivity,98,13.1,260.8,Morning,Y
+U002,2025-03-21,Google Meet,Productivity,19,3.4,65.5,Night,Y
+U002,2025-03-21,LinkedIn,Professional,89,11.2,217.5,Evening,Y
+U002,2025-03-21,WhatsApp,Social Media,108,18.0,482.9,Night,N
+U002,2025-03-21,Chrome,Productivity,103,11.1,278.4,Night,Y
+U002,2025-03-21,Instagram,Social Media,56,3.7,232.2,Night,N
+U002,2025-03-22,Candy Crush,Games,78,4.4,305.7,Night,N
+U002,2025-03-22,Zoom,Productivity,13,2.4,20.4,Afternoon,Y
+U002,2025-03-22,Instagram,Social Media,81,13.5,227.1,Night,N
+U002,2025-03-23,Notion,Productivity,70,3.5,330.5,Night,Y
+U002,2025-03-23,Google Meet,Productivity,78,14.0,172.8,Morning,Y
+U002,2025-03-23,Notion,Productivity,14,1.8,50.8,Morning,Y
+U002,2025-03-23,Notion,Productivity,27,1.8,113.1,Morning,Y
+U002,2025-03-23,Google Meet,Productivity,98,12.7,258.3,Morning,Y
+U002,2025-03-23,Notion,Productivity,58,7.7,204.7,Afternoon,Y
+U002,2025-03-24,Notion,Productivity,16,1.9,58.6,Morning,Y
+U002,2025-03-24,YouTube,Entertainment,26,2.2,47.6,Evening,N
+U002,2025-03-24,YouTube,Entertainment,100,16.1,405.5,Night,N
+U002,2025-03-25,Chrome,Productivity,76,10.8,312.1,Evening,Y
+U002,2025-03-25,YouTube,Entertainment,62,10.1,286.9,Night,N
+U002,2025-03-25,YouTube,Entertainment,113,14.2,538.4,Night,N
+U002,2025-03-25,YouTube,Entertainment,64,9.0,178.3,Morning,N
+U002,2025-03-26,Zoom,Productivity,115,12.0,517.3,Evening,Y
+U002,2025-03-26,Candy Crush,Games,108,7.4,314.3,Morning,N
+U002,2025-03-26,Notion,Productivity,31,3.5,127.9,Night,Y
+U002,2025-03-27,Spotify,Entertainment,31,4.7,87.5,Evening,N
+U002,2025-03-27,Chrome,Productivity,26,1.6,66.2,Morning,Y
+U002,2025-03-27,Instagram,Social Media,48,2.9,128.8,Evening,N
+U002,2025-03-27,Notion,Productivity,92,17.5,356.1,Afternoon,Y
+U002,2025-03-27,WhatsApp,Social Media,117,22.0,555.4,Morning,N
+U002,2025-03-27,Spotify,Entertainment,28,1.5,73.0,Evening,N
+U002,2025-03-28,Notion,Productivity,98,5.2,199.8,Evening,Y
+U002,2025-03-28,YouTube,Entertainment,18,1.8,54.2,Night,N
+U002,2025-03-28,YouTube,Entertainment,32,1.7,128.6,Night,N
+U002,2025-03-29,Notion,Productivity,71,6.5,328.3,Evening,Y
+U002,2025-03-29,Notion,Productivity,76,12.5,131.0,Night,Y
+U002,2025-03-29,Chrome,Productivity,102,7.6,345.1,Afternoon,Y
+U002,2025-03-29,LinkedIn,Professional,61,12.2,208.0,Morning,Y
+U002,2025-03-30,YouTube,Entertainment,95,15.5,472.3,Evening,N
+U002,2025-03-30,YouTube,Entertainment,27,3.0,45.5,Morning,N
+U002,2025-03-30,Spotify,Entertainment,86,15.4,319.4,Evening,N
+U002,2025-03-30,Zoom,Productivity,67,6.2,260.6,Evening,Y
+U002,2025-03-30,Google Meet,Productivity,63,6.2,197.5,Morning,Y
+U002,2025-03-30,Google Meet,Productivity,102,13.9,304.2,Morning,Y
+U002,2025-03-31,Zoom,Productivity,47,2.6,226.7,Evening,Y
+U002,2025-03-31,LinkedIn,Professional,91,8.1,315.6,Evening,Y
+U002,2025-03-31,LinkedIn,Professional,111,19.9,177.1,Afternoon,Y
+U002,2025-03-31,Chrome,Productivity,23,1.6,38.7,Night,Y
+U002,2025-04-01,Instagram,Social Media,64,4.5,272.5,Evening,N
+U002,2025-04-01,Google Meet,Productivity,56,4.3,246.4,Night,Y
+U002,2025-04-01,Zoom,Productivity,86,8.5,179.2,Afternoon,Y
+U002,2025-04-02,Notion,Productivity,100,13.0,310.9,Evening,Y
+U002,2025-04-02,Notion,Productivity,82,13.7,258.8,Afternoon,Y
+U002,2025-04-02,Candy Crush,Games,79,5.8,357.0,Evening,N
+U002,2025-04-02,Spotify,Entertainment,68,10.4,324.2,Evening,N
+U002,2025-04-03,Notion,Productivity,29,5.5,123.3,Evening,Y
+U002,2025-04-03,Chrome,Productivity,40,5.0,118.6,Afternoon,Y
+U002,2025-04-03,Google Meet,Productivity,25,3.7,53.0,Night,Y
+U002,2025-04-03,Candy Crush,Games,40,2.3,104.2,Morning,N
+U002,2025-04-03,Notion,Productivity,62,11.9,254.2,Evening,Y
+U002,2025-04-04,YouTube,Entertainment,45,6.7,108.3,Afternoon,N
+U002,2025-04-04,YouTube,Entertainment,84,6.4,262.9,Evening,N
+U002,2025-04-04,Google Meet,Productivity,102,19.1,386.2,Evening,Y
+U002,2025-04-05,Chrome,Productivity,61,11.0,194.2,Afternoon,Y
+U002,2025-04-05,LinkedIn,Professional,40,7.4,157.4,Evening,Y
+U002,2025-04-05,Chrome,Productivity,32,3.7,92.8,Night,Y
+U002,2025-04-05,Candy Crush,Games,44,8.0,168.8,Evening,N
+U002,2025-04-05,Candy Crush,Games,84,4.4,148.4,Night,N
+U002,2025-04-05,Instagram,Social Media,23,4.2,96.1,Night,N
+U002,2025-04-06,Candy Crush,Games,82,10.6,317.9,Afternoon,N
+U002,2025-04-06,Spotify,Entertainment,26,3.1,56.7,Afternoon,N
+U002,2025-04-06,WhatsApp,Social Media,33,2.5,155.9,Night,N
+U002,2025-04-06,Spotify,Entertainment,112,11.1,375.0,Morning,N
+U002,2025-04-06,LinkedIn,Professional,24,3.2,68.5,Evening,Y
+U002,2025-04-07,Zoom,Productivity,36,4.7,56.7,Morning,Y
+U002,2025-04-07,WhatsApp,Social Media,110,19.8,417.6,Night,N
+U002,2025-04-07,Spotify,Entertainment,24,2.1,42.3,Morning,N
+U002,2025-04-08,Chrome,Productivity,119,21.3,299.6,Morning,Y
+U002,2025-04-08,Candy Crush,Games,80,12.2,296.7,Morning,N
+U002,2025-04-08,Google Meet,Productivity,12,1.3,44.3,Afternoon,Y
+U002,2025-04-08,Zoom,Productivity,89,12.2,215.5,Night,Y
+U002,2025-04-08,Google Meet,Productivity,48,3.8,142.3,Afternoon,Y
+U002,2025-04-09,Notion,Productivity,17,1.4,68.2,Night,Y
+U002,2025-04-09,LinkedIn,Professional,67,5.0,147.1,Afternoon,Y
+U002,2025-04-09,WhatsApp,Social Media,14,1.3,41.7,Evening,N
+U002,2025-04-09,Google Meet,Productivity,101,18.5,363.8,Morning,Y
+U002,2025-04-10,WhatsApp,Social Media,93,13.6,208.7,Night,N
+U002,2025-04-10,Notion,Productivity,103,13.9,290.6,Evening,Y
+U002,2025-04-10,Chrome,Productivity,33,2.0,67.8,Afternoon,Y
+U002,2025-04-10,Google Meet,Productivity,61,7.2,191.5,Evening,Y
+U002,2025-04-11,Candy Crush,Games,67,11.9,252.2,Evening,N
+U002,2025-04-11,LinkedIn,Professional,13,2.2,25.1,Morning,Y
+U002,2025-04-11,WhatsApp,Social Media,38,4.7,60.9,Morning,N
+U002,2025-04-11,Google Meet,Productivity,23,3.9,108.1,Afternoon,Y
+U002,2025-04-12,Chrome,Productivity,23,1.2,86.3,Night,Y
+U002,2025-04-12,Chrome,Productivity,58,11.0,113.7,Afternoon,Y
+U002,2025-04-12,Instagram,Social Media,28,1.6,88.0,Evening,N
+U002,2025-04-13,Instagram,Social Media,73,7.5,235.0,Evening,N
+U002,2025-04-13,YouTube,Entertainment,79,5.7,275.8,Afternoon,N
+U002,2025-04-13,Notion,Productivity,10,1.6,27.5,Evening,Y
+U002,2025-04-13,Zoom,Productivity,93,14.5,218.1,Evening,Y
+U002,2025-04-13,Instagram,Social Media,90,13.1,229.7,Evening,N
+U003,2025-03-15,Zoom,Productivity,29,5.3,70.2,Night,Y
+U003,2025-03-15,Spotify,Entertainment,30,2.6,83.3,Afternoon,N
+U003,2025-03-15,Chrome,Productivity,59,4.2,174.5,Afternoon,Y
+U003,2025-03-16,Candy Crush,Games,43,6.0,77.8,Night,N
+U003,2025-03-16,Chrome,Productivity,80,6.1,276.2,Evening,Y
+U003,2025-03-16,LinkedIn,Professional,34,2.4,104.6,Evening,Y
+U003,2025-03-16,Zoom,Productivity,82,16.2,126.4,Morning,Y
+U003,2025-03-17,Candy Crush,Games,72,3.7,350.0,Night,N
+U003,2025-03-17,WhatsApp,Social Media,78,4.7,152.3,Night,N
+U003,2025-03-17,Notion,Productivity,19,2.1,53.3,Evening,Y
+U003,2025-03-17,LinkedIn,Professional,32,3.5,112.0,Afternoon,Y
+U003,2025-03-17,Spotify,Entertainment,85,10.9,187.5,Morning,N
+U003,2025-03-18,Instagram,Social Media,28,2.2,81.2,Morning,N
+U003,2025-03-18,Instagram,Social Media,74,12.2,166.1,Afternoon,N
+U003,2025-03-18,LinkedIn,Professional,70,6.2,206.4,Night,Y
+U003,2025-03-18,Candy Crush,Games,96,7.8,267.3,Evening,N
+U003,2025-03-18,YouTube,Entertainment,13,2.3,25.6,Morning,N
+U003,2025-03-19,LinkedIn,Professional,112,15.1,478.0,Evening,Y
+U003,2025-03-19,Google Meet,Productivity,92,8.7,291.8,Night,Y
+U003,2025-03-19,LinkedIn,Professional,110,9.6,307.7,Evening,Y
+U003,2025-03-19,Chrome,Productivity,116,22.0,343.9,Afternoon,Y
+U003,2025-03-20,Google Meet,Productivity,40,6.0,146.6,Night,Y
+U003,2025-03-20,Notion,Productivity,93,10.3,409.7,Morning,Y
+U003,2025-03-20,Google Meet,Productivity,76,9.3,264.7,Afternoon,Y
+U003,2025-03-21,Chrome,Productivity,117,12.5,278.4,Morning,Y
+U003,2025-03-21,Zoom,Productivity,104,15.7,432.2,Morning,Y
+U003,2025-03-21,Google Meet,Productivity,57,3.5,151.5,Morning,Y
+U003,2025-03-22,Chrome,Productivity,111,18.1,474.5,Evening,Y
+U003,2025-03-22,Notion,Productivity,80,6.7,312.8,Night,Y
+U003,2025-03-22,Instagram,Social Media,120,8.8,273.7,Evening,N
+U003,2025-03-23,Instagram,Social Media,112,20.1,244.2,Evening,N
+U003,2025-03-23,Zoom,Productivity,34,5.5,89.1,Morning,Y
+U003,2025-03-23,Instagram,Social Media,116,6.5,396.4,Evening,N
+U003,2025-03-24,Spotify,Entertainment,91,17.9,138.9,Night,N
+U003,2025-03-24,WhatsApp,Social Media,93,8.9,286.9,Afternoon,N
+U003,2025-03-24,Google Meet,Productivity,21,3.4,77.5,Afternoon,Y
+U003,2025-03-24,LinkedIn,Professional,86,9.8,362.1,Evening,Y
+U003,2025-03-24,Chrome,Productivity,116,6.7,252.9,Afternoon,Y
+U003,2025-03-24,LinkedIn,Professional,16,2.6,54.1,Afternoon,Y
+U003,2025-03-25,Notion,Productivity,107,12.0,419.7,Afternoon,Y
+U003,2025-03-25,YouTube,Entertainment,33,6.5,96.9,Morning,N
+U003,2025-03-25,Google Meet,Productivity,39,5.1,88.0,Evening,Y
+U003,2025-03-25,YouTube,Entertainment,19,2.7,64.4,Morning,N
+U003,2025-03-25,Instagram,Social Media,23,4.1,51.0,Night,N
+U003,2025-03-25,Google Meet,Productivity,118,10.3,455.7,Evening,Y
+U003,2025-03-26,Zoom,Productivity,20,3.5,94.0,Afternoon,Y
+U003,2025-03-26,YouTube,Entertainment,23,1.6,51.7,Night,N
+U003,2025-03-26,Spotify,Entertainment,93,8.9,319.8,Afternoon,N
+U003,2025-03-27,YouTube,Entertainment,116,11.6,389.7,Night,N
+U003,2025-03-27,Google Meet,Productivity,31,4.5,94.7,Evening,Y
+U003,2025-03-27,Spotify,Entertainment,80,15.6,186.9,Afternoon,N
+U003,2025-03-27,Notion,Productivity,98,8.6,180.1,Evening,Y
+U003,2025-03-27,Notion,Productivity,60,7.1,126.1,Evening,Y
+U003,2025-03-27,Notion,Productivity,23,3.2,61.2,Night,Y
+U003,2025-03-28,Spotify,Entertainment,104,11.5,438.5,Night,N
+U003,2025-03-28,Chrome,Productivity,58,10.0,211.8,Evening,Y
+U003,2025-03-28,Zoom,Productivity,112,19.5,559.7,Morning,Y
+U003,2025-03-28,Candy Crush,Games,106,18.8,476.3,Evening,N
+U003,2025-03-28,Instagram,Social Media,12,1.1,45.4,Afternoon,N
+U003,2025-03-29,Instagram,Social Media,86,7.1,284.4,Morning,N
+U003,2025-03-29,Notion,Productivity,80,8.1,337.2,Afternoon,Y
+U003,2025-03-29,YouTube,Entertainment,38,7.4,133.2,Morning,N
+U003,2025-03-29,Spotify,Entertainment,83,13.7,345.2,Afternoon,N
+U003,2025-03-30,Google Meet,Productivity,72,10.0,350.5,Afternoon,Y
+U003,2025-03-30,LinkedIn,Professional,87,7.3,209.2,Afternoon,Y
+U003,2025-03-30,LinkedIn,Professional,22,3.6,41.9,Morning,Y
+U003,2025-03-30,WhatsApp,Social Media,104,19.6,463.4,Morning,N
+U003,2025-03-30,Spotify,Entertainment,99,13.4,206.0,Morning,N
+U003,2025-03-31,Candy Crush,Games,66,7.5,245.2,Night,N
+U003,2025-03-31,Spotify,Entertainment,66,8.1,111.0,Afternoon,N
+U003,2025-03-31,Zoom,Productivity,28,5.3,77.5,Morning,Y
+U003,2025-03-31,Google Meet,Productivity,116,12.8,489.1,Afternoon,Y
+U003,2025-04-01,LinkedIn,Professional,62,7.1,263.1,Evening,Y
+U003,2025-04-01,Spotify,Entertainment,21,1.6,84.7,Morning,N
+U003,2025-04-01,YouTube,Entertainment,51,8.0,142.5,Morning,N
+U003,2025-04-01,WhatsApp,Social Media,50,4.8,152.7,Afternoon,N
+U003,2025-04-01,Candy Crush,Games,73,7.7,344.6,Evening,N
+U003,2025-04-01,Candy Crush,Games,35,3.2,150.7,Morning,N
+U003,2025-04-02,Chrome,Productivity,57,4.2,221.8,Morning,Y
+U003,2025-04-02,WhatsApp,Social Media,91,16.4,276.7,Afternoon,N
+U003,2025-04-02,LinkedIn,Professional,112,15.6,187.7,Night,Y
+U003,2025-04-02,Zoom,Productivity,46,7.3,121.1,Afternoon,Y
+U003,2025-04-03,Zoom,Productivity,106,11.5,521.2,Morning,Y
+U003,2025-04-03,YouTube,Entertainment,26,2.9,105.0,Evening,N
+U003,2025-04-03,Zoom,Productivity,103,6.9,402.2,Morning,Y
+U003,2025-04-04,LinkedIn,Professional,34,5.5,98.7,Afternoon,Y
+U003,2025-04-04,Instagram,Social Media,98,8.9,374.7,Evening,N
+U003,2025-04-04,Google Meet,Productivity,57,8.2,240.3,Evening,Y
+U003,2025-04-04,Chrome,Productivity,108,20.8,183.8,Morning,Y
+U003,2025-04-04,Notion,Productivity,37,3.6,115.5,Night,Y
+U003,2025-04-04,YouTube,Entertainment,114,13.3,213.4,Evening,N
+U003,2025-04-05,Zoom,Productivity,12,1.5,51.6,Morning,Y
+U003,2025-04-05,Notion,Productivity,93,7.6,380.3,Morning,Y
+U003,2025-04-05,LinkedIn,Professional,36,4.7,156.6,Morning,Y
+U003,2025-04-05,Notion,Productivity,102,11.5,229.9,Evening,Y
+U003,2025-04-05,Spotify,Entertainment,103,15.7,268.7,Evening,N
+U003,2025-04-06,Candy Crush,Games,71,4.2,251.0,Morning,N
+U003,2025-04-06,WhatsApp,Social Media,40,4.0,180.5,Night,N
+U003,2025-04-06,Chrome,Productivity,89,7.9,213.5,Night,Y
+U003,2025-04-06,Spotify,Entertainment,105,13.8,466.4,Evening,N
+U003,2025-04-06,LinkedIn,Professional,73,11.1,125.5,Night,Y
+U003,2025-04-07,Instagram,Social Media,44,8.7,148.8,Night,N
+U003,2025-04-07,WhatsApp,Social Media,102,14.1,241.7,Evening,N
+U003,2025-04-07,LinkedIn,Professional,32,3.7,116.6,Afternoon,Y
+U003,2025-04-08,Spotify,Entertainment,85,9.3,243.9,Morning,N
+U003,2025-04-08,Google Meet,Productivity,68,6.3,240.3,Morning,Y
+U003,2025-04-08,Notion,Productivity,39,6.8,82.5,Afternoon,Y
+U003,2025-04-08,Google Meet,Productivity,46,9.1,86.5,Evening,Y
+U003,2025-04-09,Chrome,Productivity,96,14.9,189.0,Morning,Y
+U003,2025-04-09,Candy Crush,Games,72,10.4,138.0,Night,N
+U003,2025-04-09,Google Meet,Productivity,105,10.7,347.6,Evening,Y
+U003,2025-04-10,Instagram,Social Media,63,9.6,156.2,Afternoon,N
+U003,2025-04-10,Zoom,Productivity,23,1.6,76.2,Afternoon,Y
+U003,2025-04-10,WhatsApp,Social Media,33,5.8,136.7,Night,N
+U003,2025-04-10,Spotify,Entertainment,29,2.1,61.6,Night,N
+U003,2025-04-10,Spotify,Entertainment,84,10.3,200.8,Afternoon,N
+U003,2025-04-11,Google Meet,Productivity,91,17.8,268.5,Night,Y
+U003,2025-04-11,Instagram,Social Media,74,12.1,338.3,Afternoon,N
+U003,2025-04-11,YouTube,Entertainment,67,4.5,177.9,Morning,N
+U003,2025-04-11,YouTube,Entertainment,34,3.8,91.5,Morning,N
+U003,2025-04-11,Zoom,Productivity,19,1.2,35.3,Afternoon,Y
+U003,2025-04-12,LinkedIn,Professional,119,15.0,545.7,Afternoon,Y
+U003,2025-04-12,Notion,Productivity,70,5.7,176.5,Afternoon,Y
+U003,2025-04-12,WhatsApp,Social Media,95,7.2,281.2,Evening,N
+U003,2025-04-12,Notion,Productivity,100,6.4,389.5,Morning,Y
+U003,2025-04-13,Notion,Productivity,87,12.2,149.4,Afternoon,Y
+U003,2025-04-13,LinkedIn,Professional,30,1.7,100.2,Evening,Y
+U003,2025-04-13,Candy Crush,Games,59,5.8,197.2,Afternoon,N
+U003,2025-04-13,YouTube,Entertainment,113,7.3,554.1,Morning,N
