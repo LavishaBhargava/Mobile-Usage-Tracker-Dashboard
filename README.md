@@ -11,6 +11,7 @@ Identify app usage trends
 Improve digital well-being
 
 📊 Dashboard Features
+
 ✅ Page 1: Mobile Tracker Dashboard
 Total Screen Time, Average Daily Use, and Most Used App
 
@@ -22,12 +23,14 @@ Daily usage trend line
 
 App usage bar chart
 
+
 ✅ Page 2: App Usage Efficiency
 Apps grouped into Productive and Non-Productive
 
 Productivity status based on selected app
 
 Apps Usage and Data Usage based on Selected App
+
 
 ✅ Page 3: Usage Behavior Analysis 
 Selectable app usage timeline
@@ -37,12 +40,15 @@ Filters for date and category
 focus on identifying overuse areas
 
 
+
 📁 Files Included
 MobileUsageDashboard.pbix — Full Power BI dashboard
 
 mobile_usage_data.csv — Sample dataset used
 
  Page1,Page2,Page3 - Screenshots of the dashboard
+
+
 
 ⚙️ Tools Used
 Power BI Desktop
@@ -54,6 +60,8 @@ Custom visuals like donut charts, KPI cards, slicers
 Navigation buttons and image-based page switching
 
 
+
+
 📚 Key Learnings
 Hands-on experience with Power BI visuals and DAX
 
@@ -62,16 +70,18 @@ Data modeling, filtering, and interactive dashboards
 Visual storytelling and user-friendly design.
 
 
+
+
 ## 🖼️ Dashboard Image Showcase
 
 ### 🔹 Mobile Tracker Dashboard
-![Mobile Tracker]("C:\Users\lavis\OneDrive\Desktop\Dashboard Images\Page 1.png")
+![Mobile Tracker](r"C:\Users\lavis\OneDrive\Desktop\Dashboard Images\Page 1.png")
 
 ### 🔹 App Usage Efficiency
-![App Efficiency]("C:\Users\lavis\OneDrive\Desktop\Dashboard Images\Page 2.png")
+![App Efficiency](r"C:\Users\lavis\OneDrive\Desktop\Dashboard Images\Page 2.png")
 
 ### 🔹 Usage Behavior Analysis 
-![App Analysis]("C:\Users\lavis\OneDrive\Desktop\Dashboard Images\Page 3.png")
+![App Analysis](r"C:\Users\lavis\OneDrive\Desktop\Dashboard Images\Page 3.png")
 
 
 
