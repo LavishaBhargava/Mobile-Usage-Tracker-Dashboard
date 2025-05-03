@@ -15,6 +15,7 @@ The goal of this project is to analyze daily mobile usage data and categorize ti
 
 
 ✅ Page 1: Mobile Tracker Dashboard
+
 .Total Screen Time, Average Daily Use, and Most Used App
 
 .Productivity % based on app category
