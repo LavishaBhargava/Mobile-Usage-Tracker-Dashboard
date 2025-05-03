@@ -10,7 +10,9 @@ The goal of this project is to analyze daily mobile usage data and categorize ti
 
 .Improve digital well-being
 
+
 📊 Dashboard Features
+
 
 ✅ Page 1: Mobile Tracker Dashboard
 .Total Screen Time, Average Daily Use, and Most Used App
@@ -24,6 +26,7 @@ The goal of this project is to analyze daily mobile usage data and categorize ti
 .App usage bar chart
 
 
+
 ✅ Page 2: App Usage Efficiency
 
 .Apps grouped into Productive and Non-Productive
@@ -31,6 +34,7 @@ The goal of this project is to analyze daily mobile usage data and categorize ti
 .Productivity status based on selected app
 
 .Apps Usage and Data Usage based on Selected App
+
 
 
 ✅ Page 3: Usage Behavior Analysis 
@@ -43,6 +47,8 @@ The goal of this project is to analyze daily mobile usage data and categorize ti
 
 
 
+
+
 📁 Files Included
 
 .MobileUsageDashboard.pbix — Full Power BI dashboard
@@ -50,6 +56,8 @@ The goal of this project is to analyze daily mobile usage data and categorize ti
 .mobile_usage_data.csv — Sample dataset used
 
  .Page1,Page2,Page3 - Screenshots of the dashboard
+
+
 
 
 
@@ -69,6 +77,8 @@ The goal of this project is to analyze daily mobile usage data and categorize ti
 
 
 
+
+
 📚 Key Learnings
 
 .Hands-on experience with Power BI visuals and DAX
@@ -81,16 +91,7 @@ The goal of this project is to analyze daily mobile usage data and categorize ti
 
 
 
-## 🖼️ Dashboard Image Showcase
 
-### 🔹 Mobile Tracker Dashboard
-("C:\Users\lavis\OneDrive\Desktop\Dashboard Images")
-
-### 🔹 App Usage Efficiency
-![App Efficiency](r"C:\Users\lavis\OneDrive\Desktop\Dashboard Images\Page 2.png")
-
-### 🔹 Usage Behavior Analysis 
-![App Analysis](r"C:\Users\lavis\OneDrive\Desktop\Dashboard Images\Page 3.png")
 
 
 
